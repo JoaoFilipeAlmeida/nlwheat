@@ -1,0 +1,33 @@
+const LinksSocialMedia = {
+    github: 'JoaoFilipeAlmeida',
+    facebook: 'joaofelipesport',
+    instagram: 'joaoalmeida105',
+    twitter: 'CapitaoMafra'
+}
+
+function changeSocialMediaLinks () {
+    for (let li of socialLinks.children) {
+        const social = li.getAttribute('class')
+
+        li.children[0].href = `https://${social}.com/${LinksSocialMedia[social]}`
+    }
+}
+changeSocialMediaLinks ()
+
+/* Coletando dados da API do GitHub e Substituindo {Foto, Nome, Nome no GitHub, Link para o GitHub e Bio} */
+
+function getGitHubProfileInfos (){
+    const url = `https://api.github.com/users/${LinksSocialMedia.github}`
+   
+
+    fetch(url)
+        .then(response => response.json())
+        .then(data => {
+            userName.textContent = data.name
+            userBio.textContent = data.bio
+            userLink.href = data.html_url
+            userImage.src = data.avatar_url
+            userLoginGitHub.textContent = data.login
+        })
+}
+getGitHubProfileInfos ()
