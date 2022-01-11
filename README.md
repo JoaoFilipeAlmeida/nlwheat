@@ -23,11 +23,11 @@ The DoWhile Virtual Badge is a static application with the objective of showing 
 ## 🔖 Layout
 
 <p align="center">
-<img src= "https://raw.githubusercontent.com/JoaoFilipeAlmeida/Fotosreadme/75b4381f8eee2fb4347d912c9181914e6f26c2e9/fotos%20nlwheat/Desktop.svg?token=AN73PCDYT4RAPTCBU3MNHFLB3TCCM">
+<img src= "https://raw.githubusercontent.com/JoaoFilipeAlmeida/Fotosreadme/master/fotos%20nlwheat/Desktop.png?token=GHSAT0AAAAAABQGHULKB4HALJZH5ZJ4EDXYYO422XA">
 <p>
 
 <p align="center">
-<img src= "https://raw.githubusercontent.com/JoaoFilipeAlmeida/Fotosreadme/75b4381f8eee2fb4347d912c9181914e6f26c2e9/fotos%20nlwheat/Mobile.svg?token=AN73PCGMAVAKG7XRBKLJCWTB3TCI4">
+<img src= "https://raw.githubusercontent.com/JoaoFilipeAlmeida/Fotosreadme/master/fotos%20nlwheat/Mobile.png?token=GHSAT0AAAAAABQGHULLJWUM5CAXRGPZJSTWYO423QA">
 <p>
  
 
@@ -41,7 +41,7 @@ This project was developed with the following technologies:
 - CSS
 - JavaScript
  
-
+    
 ## ▶️ Getting started
  
 - Necessary to have [Visual Studio Code](<https://code.visualstudio.com/>)
@@ -53,10 +53,12 @@ This project was developed with the following technologies:
 3. Change the values in quotes inside ``LinkSocialMedia`` by your user of each social network, after this process save.
  
 4. Right-click on the ``index.html`` file and select the open with ``Live Serve`` option. Ready, the badge will be opened and will be with the new data.
- 
- 
+
+
 ## 📝 Project Status
- <h4> Crachá Virtual DoWhile - Completed ✔️ </h4>
+#### Crachá Virtual DoWhile - Completed ✔️
  
+    
 ## 🛡️ License
+  
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/JoaoFilipeAlmeida/nlwheat/blob/master/LICENSE)
