@@ -23,11 +23,11 @@ The DoWhile Virtual Badge is a static application with the objective of showing 
 ## 🔖 Layout
 
 <p align="center">
-<img src= "https://raw.githubusercontent.com/JoaoFilipeAlmeida/Fotosreadme/master/fotos%20nlwheat/Desktop.png?token=GHSAT0AAAAAABQGHULKB4HALJZH5ZJ4EDXYYO422XA">
+<img src= "https://github.com/JoaoFilipeAlmeida/Fotosreadme/blob/master/fotos%20nlwheat/Desktop.png">
 <p>
 
 <p align="center">
-<img src= "https://raw.githubusercontent.com/JoaoFilipeAlmeida/Fotosreadme/master/fotos%20nlwheat/Mobile.png?token=GHSAT0AAAAAABQGHULLJWUM5CAXRGPZJSTWYO423QA">
+<img src= "https://github.com/JoaoFilipeAlmeida/Fotosreadme/blob/master/fotos%20nlwheat/Mobile.png">
 <p>
  
 
